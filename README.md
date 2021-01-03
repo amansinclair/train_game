@@ -17,9 +17,4 @@ Images adapted from:
 - [Animals](https://opengameart.org/content/pixel-animals-16x16)
 
 ## Sounds:
-Sounds taken from [https://bigsoundbank.com/](https://bigsoundbank.com/) 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> main
+Sounds taken from [https://bigsoundbank.com/](https://bigsoundbank.com/)
