@@ -7,7 +7,7 @@ A train game for my son.
 ## Usage
 
 ```console
-$ python -m gol
+$ python -m train_game
 ```
 
 ## Controls
